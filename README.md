@@ -1,1 +1,1 @@
-angular-js-readme
+angular-js
